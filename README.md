@@ -123,7 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-<img width="1032" height="872" alt="activity diagram" src="https://github.com/user-attachments/assets/50fc3265-8c6f-4407-881d-ca5e43933555" />
+<img width="872" height="750" alt="sequence diagram" src="https://github.com/user-attachments/assets/100535cf-517f-45d4-95d8-1950c93dc81c" />
 
 
 
